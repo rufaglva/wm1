@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+hr {
+    width: 90%;
+    height: 15px;
+    background-color:darkolivegreen;
+    border-color:darkgreen;
+}
+
+h3 {
+    color:antiquewhite;
+}
+
+.title{
+    color:aliceblue;
+}
+
+ol{
+    list-style-type: square;
+}
