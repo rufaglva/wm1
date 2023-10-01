@@ -1,22 +1,42 @@
 body{
-    background-color: antiquewhite;
+    background-color: #efede3;
+    color:#3a3b30;
+}
+img{
+    width:250px;
+    border-radius: 30%;
+    transition: all 0.3s ease;
+
+}
+
+img:hover{
+    width:300px;
+    border-radius: 25%;
 }
 
 hr {
-    width: 90%;
-    height: 15px;
-    background-color:darkolivegreen;
-    border-color:darkgreen;
+    width:92%;
+    height: 1px;
+    border-radius: 10%;
+    background: #9d9989;
+    
 }
 
-h3 {
-    color:antiquewhite;
+
+a:visited{
+    color:blue
 }
 
-.title{
-    color:aliceblue;
+a:hover{
+    color: brown
 }
 
-ol{
-    list-style-type: square;
+table h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-style:italic;
+    font-size:x-large;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
 }
